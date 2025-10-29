@@ -1,0 +1,5 @@
+{
+  "start": { "REGISTER_PATIENT": "registered" },
+  "registered": { "CONSULT_START": "consulting" },
+  "consulting": { "CONSULT_END": "completed" }
+}

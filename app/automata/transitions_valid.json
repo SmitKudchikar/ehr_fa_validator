@@ -1,0 +1,8 @@
+{
+  "start": { "REGISTER_PATIENT": "registered" },
+  "registered": { "CONSENT_GRANTED": "consented" },
+  "consented": { "CONSULT_START": "consulting" },
+  "consulting": { "DIAGNOSIS": "diagnosed" },
+  "diagnosed": { "PRESCRIPTION": "prescribed" },
+  "prescribed": { "CONSULT_END": "completed" }
+}

@@ -1,0 +1,7 @@
+[
+  {"patient_id": "P001", "abha_id": "12-3456-7890-1234", "event_type": "REGISTER_PATIENT", "timestamp": "2025-10-27T10:00:00"},
+  {"patient_id": "P001", "abha_id": "12-3456-7890-1234", "event_type": "CONSENT_GRANTED", "timestamp": "2025-10-27T10:05:00"},
+  {"patient_id": "P001", "abha_id": "12-3456-7890-1234", "event_type": "CONSULT_START", "timestamp": "2025-10-27T10:10:00"},
+  {"patient_id": "P001", "abha_id": "12-3456-7890-1234", "event_type": "DIAGNOSIS", "timestamp": "2025-10-27T10:15:00"},
+  {"patient_id": "P001", "abha_id": "12-3456-7890-1234", "event_type": "CONSULT_END", "timestamp": "2025-10-27T10:20:00"}
+]
